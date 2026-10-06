@@ -1,6 +1,6 @@
 ---
 name: scientific-manuscript-writing
-description: Draft and revise scientific manuscript prose, especially abstracts, introductions, literature reviews, results discussions, and captions. Preserve the author's logical sequence, explain concrete source-supported findings, maintain technical terminology, and make targeted edits. Use for academic writing and revision rather than independent validation of research results.
+description: Draft and revise scientific manuscript prose, especially abstracts, introductions, literature reviews, results discussions, and captions. Preserve the author's logic, connect observations to physical interpretation, avoid defensive boilerplate, maintain terminology and abbreviations, and make targeted edits. Use for academic writing and revision rather than independent validation of research results.
 ---
 
 # Scientific manuscript writing
@@ -47,6 +47,28 @@ Use these defaults to produce clear, connected academic prose. Follow explicit a
 - Use connected sentences instead of repeatedly writing a general claim followed by a colon and a list. This prose preference does not prohibit useful headings or tables in working notes.
 - Avoid filler such as “It is noted that” and “the above-mentioned”. Do not begin every sentence with a transition.
 - Match claim strength to evidence. Use clear causal wording when justified and explicit association when that is what the analysis establishes. Do not add vague hedges automatically or remove meaningful uncertainty for rhetorical force.
+- State the method and result affirmatively. Avoid routinely appending what an analysis did not calculate or cannot prove. Include a qualification when it changes interpretation, and state its specific consequence once. Put technical assumptions in Methods when that is where they are needed; retain a consequential discrepancy beside the result it qualifies.
+
+## Develop Results around the scientific argument
+
+For figure discussions, section openings and paragraph transitions, read [Results prose: evidence, interpretation and transitions](references/results-style.md). It contains patterns drawn from four research papers and original examples of direct academic phrasing.
+
+- Follow the author's agreed sequence. A material-led study can introduce structure and model validation before the analysis method and its application. A method-led study may need a different order; the reference papers are examples, not a mandatory outline.
+- Give each subsection one scientific purpose. Use a concrete subject or supported finding as its title. Open with the material, observable, physical question or result that the reader needs next; avoid repeating the broad Introduction motivation.
+- Explain what the relevant figure shows, what the principal result is, and what that result means physically. Cite the panels that support the argument, retain essential quantities and conditions, and distinguish a schematic from evidence. Do not merely transcribe the caption or manufacture an implication for every panel.
+- Let a preceding result motivate the next analysis. Explain the specific relationship when needed; alternate purpose-led, observation-led and material-led openings. Do not mechanically start every paragraph with “To further investigate” or add “Furthermore” where no logical connection has been established.
+- Keep a representative example and an ensemble result distinct by naming their scope. State the supported population-level finding directly instead of repeatedly cautioning that individual events may differ.
+- End with the physical conclusion or a concrete next question. Avoid generic endorsements such as “provides a reliable basis” and routine disclaimers about causal proof. Let the wording of the actual claim express its evidential scope.
+- Allocate length by scientific content. Definitions need enough explanation to make the findings intelligible; routine implementation belongs in Methods. Remove repeated rationale, not the quantities needed to assess the result.
+
+## Define and use abbreviations consistently
+
+- Check the current manuscript in reading order before introducing an abbreviation. Define a useful recurring term as “full term (abbreviation)” at its first occurrence, then use the same abbreviation consistently. Do not create an abbreviation for a term used only once or twice.
+- Treat the abstract and main text as independent contexts; define abbreviations in each if used. Follow journal requirements for independently readable captions and supplementary material. Do not re-expand the same term in every Results subsection.
+- Keep a small working terminology ledger during a substantial revision: full term, preferred abbreviation, first-definition location and variants to remove. Keep this editorial aid outside publication prose.
+- Define constituent terms before compound labels when needed for understanding. Use the verified name and expansion of a method; do not invent an expansion for a software or model name.
+- Keep capitalization, plural forms, hyphenation, chemical formulas, model identifiers and mathematical symbols consistent across text, captions and figures. Repeated technical terms are preferable to synonyms that change meaning.
+- After moving sections, check for abbreviation use before definition, repeated definitions and mismatched figure labels. For a narrowly scoped edit, flag an out-of-scope correction instead of rewriting unrelated sections.
 
 ## Protect scientific meaning
 
@@ -68,4 +90,4 @@ Use these defaults to produce clear, connected academic prose. Follow explicit a
 - After an authorized LaTeX or Overleaf change, verify the saved source and, when available, a completed build for that revision. An older PDF or stale zero-error count does not verify a running or failed compilation. Report build errors and warnings separately; inspect the rendered passage when layout or formulas changed.
 - If access or compilation is unavailable, state what was prepared or saved and what remains unverified.
 
-Before returning the result, check scope, argument order, source support, terminology, quantitative meaning, transitions, and paragraph-level repetition. Keep this review internal unless the author requests an editorial explanation.
+Before returning the result, check scope, argument order, source support, terminology and first definitions, quantitative meaning, transitions, paragraph-level repetition, and unnecessary defensive clauses. Keep this review internal unless the author requests an editorial explanation.

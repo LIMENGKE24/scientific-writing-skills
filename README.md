@@ -11,12 +11,15 @@ The emphasis is on:
 - Following the author's intended argument and requested editing scope.
 - Describing what a study investigated and found, rather than listing topics or mechanisms.
 - Connecting paragraphs naturally and avoiding repeated reasoning.
+- Developing figure discussions from observations to physical interpretation, with examples drawn from research articles.
+- Using direct academic prose and reserving qualifications for points that affect the scientific interpretation.
 - Keeping terminology, quantitative claims, and source attribution accurate.
+- Defining abbreviations at first use and maintaining them across text, figures, and captions.
 - Distinguishing proposed wording from authorized manuscript changes.
 
 ## Use
 
-The skill is self-contained in `skills/scientific-manuscript-writing/SKILL.md`. Install that folder using your agent's skill-installation workflow, or provide the file as writing guidance. It has no required scripts or external service dependencies. Editing a live document requires separately available access to that document.
+The skill entrypoint is `skills/scientific-manuscript-writing/SKILL.md`, with a linked [Results writing reference](skills/scientific-manuscript-writing/references/results-style.md). Install the complete skill folder using your agent's skill-installation workflow, or provide the entrypoint and reference as writing guidance. It has no required scripts or external service dependencies. Editing a live document requires separately available access to that document.
 
 After installation, example requests include:
 
