@@ -49,6 +49,14 @@ Formal expressions can give this progression the author's preferred academic voi
 
 Use these expressions selectively alongside direct statements. Their role is to make the scientific reasoning visible, not to replace it or lengthen every sentence. Keep ordinary words and precise physical subjects even when using a more formal academic register.
 
+## Check repetition across paragraph boundaries
+
+Scientific progression should remain clear without repeating the same author-led sentence pattern. Review each paragraph together with its neighbors, including the last sentence before a new paragraph. Look for repeated subjects, opening clauses, main verbs, emphasis phrases and the same conclusion stated twice. Treat “We first assess ...” followed by “We next consider ...” as a repeated construction even though the verbs differ.
+
+Let the next scientific subject carry the transition. For example, a paragraph on the relationship between a spectral indicator and displacement can be followed by “The analysis window also determines how finely the motion can be resolved in time.” This introduces the next methodological choice and its purpose without another “We ...” opening. Other passages may naturally begin with the material, a contrasting response, an unresolved question or a physical implication. These are options, not a fixed rotation of templates.
+
+Preserve formal linking expressions and the author's step-by-step argument, but distribute them deliberately. Avoid replacing one repeated pattern with consecutive “Figure ...”, “To ...”, “It is found that ...” or “These results ...” sentences. Repetition of an essential technical term is acceptable when it preserves meaning; variation should come primarily from sentence structure, emphasis and removal of redundant reasoning.
+
 ## Make the paragraph do scientific work
 
 A figure discussion usually needs three ingredients: enough orientation to understand the observable and comparison; the principal trend with the relevant magnitude or conditions; and its physical meaning. These ingredients may span several paragraphs. Do not force every paragraph into three sentences or end each one with the same formula.
