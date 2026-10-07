@@ -20,7 +20,7 @@ Choose the opening from the scientific relationship. A transition word alone can
 | Purpose | Useful construction | Original example |
 | --- | --- | --- |
 | Introduce the material | Material-led statement | “As illustrated in Fig. 1a, the crystal structure comprises isolated tetrahedra separated by mobile-ion sites.” |
-| Introduce an analysis | “To quantify…” or “To determine whether…” followed by the actual question | “To quantify the coupling between these motions, their event times are compared.” |
+| Introduce an analysis | “To quantify…” or “To determine whether…” followed by the actual question | “To quantify the coupling between these motions, we compare their event times.” |
 | State a finding | Quantity-led statement or a selective “It is found that…” | “An increase in low-frequency intensity is observed during migration events, as shown in Fig. 2b.” |
 | Extend a result | “Furthermore”, “In addition”, or a direct new subject | “The same trend occurs across the remaining compositions.” |
 | Explain an observation | “To account for this trend…” or “This behavior suggests…” | “To account for this trend, the local coordination during migration is examined.” |
@@ -34,7 +34,7 @@ Use “therefore” and “thus” for a supported inference, not merely the nex
 
 Guide the reader through the reasoning that connects analyses. Before introducing the next panel, identify the specific question raised by the preceding result and explain what the new view will resolve. The progression can move from a macroscopic observable to individual events, from a mean response to its variation, or from a correlation to a separate energetic analysis. Preserve the actual evidential relationships; do not manufacture a causal test or a historical order of discovery.
 
-For example, an average can reveal the timing of a response, while event-resolved maps show how that response is distributed across individual events. A suitable bridge is “Beyond this average response, the development of local rearrangements is examined across individual events.” Follow it with the observed pattern, its variability and the supported interpretation. Do not simply append “Furthermore” to a second panel description.
+For example, an average can reveal the timing of a response, while event-resolved maps show how that response is distributed across individual events. A suitable bridge is “Beyond this average response, we examine how local rearrangements develop across individual events.” Follow it with the observed pattern, its variability and the supported interpretation. Do not simply append “Furthermore” to a second panel description.
 
 Formal expressions can give this progression the author's preferred academic voice:
 
@@ -63,11 +63,13 @@ Avoid a short, generic topic announcement followed by another sentence that fina
 
 Review the whole passage for abrupt introductory statements, isolated definitions and loosely connected observations. Integrate them with the relevant explanation while retaining varied subjects, clear antecedents and the step-by-step scientific argument. A short sentence that conveys a complete, important finding can remain; the issue is thin or disconnected prose, not a numerical minimum length. Avoid solving the problem through padding, excessive nominalization or several independent claims joined into one long sentence.
 
-## Prefer passive descriptions of analysis and comparison
+## Balance author-led and passive constructions
 
-Place the observable or scientific object at the center of procedural sentences. Replace “Fig. 1b compares the calculated conductivity with the AIMD results” with “The calculated conductivity is compared with the AIMD results, as shown in Fig. 1b.” A figure displays evidence; it is not the actor performing an analysis. Similarly, use “The event-to-event variation is examined using the maps in Fig. 3c” when describing the purpose of a comparison.
+Choose the voice according to the sentence's role. “We analyse” or “we compare” is useful for the study approach, an analytical decision or a transition that guides the reader. Passive constructions are useful when the procedure, observable or result should receive emphasis. Retain direct physical statements such as “Gate 1 widens before hopping onset” and named authors when attributing earlier findings. A request for more passive voice does not mean that author-led sentences should disappear.
 
-Apply this preference across the abstract, Introduction, Results and Methods while retaining varied sentence structures and connected reasoning. Physical statements such as “Gate 1 widens before hopping onset” can remain active, and named authors can remain the subjects when their contribution is being attributed. Do not obscure who performed a previous study, strengthen a claim through “is demonstrated”, or replace every active sentence with the same impersonal opening.
+For example: “To resolve individual hopping events, we analyse each ion's spectrum within successive trajectory windows. The velocity autocorrelation function is evaluated within each window and converted into a spectrum. The resulting intensity is then compared with ion displacement.” This illustrates a mixed construction, not a required three-sentence template. Review the paragraph and neighboring passages for a natural balance; do not impose a percentage or alternate voices mechanically.
+
+Keep the distinction between voice and agency. Replace “Fig. 1b compares the calculated conductivity with the AIMD results” with either “We compare the calculated conductivity with the AIMD results, as shown in Fig. 1b” or “The calculated conductivity is compared with the AIMD results, as shown in Fig. 1b”. The figure locates the evidence; the choice between these two constructions depends on the surrounding prose. Apply stylistic preferences proportionately, preserving effective sentences rather than rewriting every instance in the opposite direction.
 
 ## Integrate information instead of enclosing it in parentheses
 
