@@ -19,7 +19,7 @@ Choose the opening from the scientific relationship. A transition word alone can
 
 | Purpose | Useful construction | Original example |
 | --- | --- | --- |
-| Introduce the material | Material-led statement | “As illustrated in Fig. 1a, the crystal structure comprises isolated tetrahedra separated by mobile-ion sites.” |
+| Introduce the material | Material-led statement | “The crystal structure consists of isolated tetrahedra with mobile ions occupying the intervening sites, as illustrated in Fig. 1a.” |
 | Introduce an analysis | “To quantify…” or “To determine whether…” followed by the actual question | “To quantify the coupling between these motions, we compare their event times.” |
 | State a finding | Quantity-led statement or a selective “It is found that…” | “An increase in low-frequency intensity is observed during migration events, as shown in Fig. 2b.” |
 | Extend a result | “Furthermore”, “In addition”, or a direct new subject | “The same trend occurs across the remaining compositions.” |
@@ -47,7 +47,7 @@ Formal expressions can give this progression the author's preferred academic voi
 - “Beyond the average response, ...”, “We next examine ...” and “To explore this variation, ...” connect successive levels of analysis.
 - “Taken together, ...” integrates complementary evidence into a specific scientific conclusion.
 
-Use these expressions selectively alongside direct statements. Their role is to make the scientific reasoning visible, not to replace it or lengthen every sentence. Keep ordinary words and precise physical subjects even when using a more formal academic register.
+When moving from a plot description to its finding, a selective “It is found that” or “It is noted that” can make the transition explicit. This is a preference, not a required opening for every result. Use these expressions selectively alongside direct statements. Their role is to make the scientific reasoning visible, not to replace it or lengthen every sentence. Keep ordinary words and precise physical subjects even when using a more formal academic register.
 
 ## Check repetition across paragraph boundaries
 
@@ -76,6 +76,10 @@ Keep the distinction between voice and agency. Replace “Fig. 1b compares the c
 Prefer figure references and explanatory details within the grammatical structure of the sentence, for example, “as shown in Fig. 2” or “the comparison in Fig. 2”, rather than appending a parenthetical reference. Place a newly defined abbreviation in its own definition and introduce the supporting figure in the surrounding prose; avoid combinations such as “(ABBR; Fig. 2)”. Integrate a term such as “termed gates” with commas when it is part of the explanation.
 
 Audit parentheses by function rather than deleting them indiscriminately. Necessary abbreviation definitions, chemical grouping and mathematical arguments retain their notation. The preference concerns main prose and does not require dismantling compact panel keys or journal-required caption conventions. Preserve nearby sentence variation when integrating references so that every sentence does not begin with “Figure” or end with “as shown in”.
+
+## Connect the physical definition to the measured quantity
+
+Before introducing a named local feature or its metric, establish the physical concept in enough detail for the reader to understand the connection. For a constriction analysis, the progression is the migration pathway, the local bottleneck formed by framework atoms, the gate label, and the distance used to quantify its size. Preserve the distinction between the structural feature and its numerical measure. Retain an effective transition from the preceding analysis rather than replacing it with an isolated definition or an exhaustive methodological digression.
 
 ## Make the paragraph do scientific work
 
