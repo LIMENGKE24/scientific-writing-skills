@@ -57,6 +57,12 @@ Let the next scientific subject carry the transition. For example, a paragraph o
 
 Preserve formal linking expressions and the author's step-by-step argument, but distribute them deliberately. Avoid replacing one repeated pattern with consecutive “Figure ...”, “To ...”, “It is found that ...” or “These results ...” sentences. Repetition of an essential technical term is acceptable when it preserves meaning; variation should come primarily from sentence structure, emphasis and removal of redundant reasoning.
 
+## Give each sentence sufficient scientific content
+
+Avoid a short, generic topic announcement followed by another sentence that finally supplies the comparison or evidence. Combine closely related ideas so that the purpose, observable and conditions form a coherent academic sentence. For example, replace “Displacement provides a direct test of the spectral indicator. The figure compares the two quantities.” with “To assess whether the spectral indicator tracks ion migration, the figure compares its intensity with the displacement of individual ions over the same trajectory window.” The revision adds a logical relationship rather than decorative wording.
+
+Review the whole passage for abrupt introductory statements, isolated definitions and loosely connected observations. Integrate them with the relevant explanation while retaining varied subjects, clear antecedents and the step-by-step scientific argument. A short sentence that conveys a complete, important finding can remain; the issue is thin or disconnected prose, not a numerical minimum length. Avoid solving the problem through padding, excessive nominalization or several independent claims joined into one long sentence.
+
 ## Make the paragraph do scientific work
 
 A figure discussion usually needs three ingredients: enough orientation to understand the observable and comparison; the principal trend with the relevant magnitude or conditions; and its physical meaning. These ingredients may span several paragraphs. Do not force every paragraph into three sentences or end each one with the same formula.
