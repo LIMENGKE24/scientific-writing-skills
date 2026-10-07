@@ -63,6 +63,12 @@ Avoid a short, generic topic announcement followed by another sentence that fina
 
 Review the whole passage for abrupt introductory statements, isolated definitions and loosely connected observations. Integrate them with the relevant explanation while retaining varied subjects, clear antecedents and the step-by-step scientific argument. A short sentence that conveys a complete, important finding can remain; the issue is thin or disconnected prose, not a numerical minimum length. Avoid solving the problem through padding, excessive nominalization or several independent claims joined into one long sentence.
 
+## Integrate information instead of enclosing it in parentheses
+
+Prefer figure references and explanatory details within the grammatical structure of the sentence, for example, “as shown in Fig. 2” or “the comparison in Fig. 2”, rather than appending a parenthetical reference. Place a newly defined abbreviation in its own definition and introduce the supporting figure in the surrounding prose; avoid combinations such as “(ABBR; Fig. 2)”. Integrate a term such as “termed gates” with commas when it is part of the explanation.
+
+Audit parentheses by function rather than deleting them indiscriminately. Necessary abbreviation definitions, chemical grouping and mathematical arguments retain their notation. The preference concerns main prose and does not require dismantling compact panel keys or journal-required caption conventions. Preserve nearby sentence variation when integrating references so that every sentence does not begin with “Figure” or end with “as shown in”.
+
 ## Make the paragraph do scientific work
 
 A figure discussion usually needs three ingredients: enough orientation to understand the observable and comparison; the principal trend with the relevant magnitude or conditions; and its physical meaning. These ingredients may span several paragraphs. Do not force every paragraph into three sentences or end each one with the same formula.
