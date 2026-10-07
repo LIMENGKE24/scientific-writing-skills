@@ -19,13 +19,13 @@ Choose the opening from the scientific relationship. A transition word alone can
 
 | Purpose | Useful construction | Original example |
 | --- | --- | --- |
-| Introduce the material | Material-led statement | “The crystal structure comprises isolated tetrahedra separated by mobile-ion sites (Fig. 1a).” |
-| Introduce an analysis | “To quantify…” or “To determine whether…” followed by the actual question | “To quantify the coupling between these motions, we compare their event times.” |
-| State a finding | Quantity-led statement or “We find that…” | “The low-frequency intensity increases during migration events (Fig. 2b).” |
+| Introduce the material | Material-led statement | “As illustrated in Fig. 1a, the crystal structure comprises isolated tetrahedra separated by mobile-ion sites.” |
+| Introduce an analysis | “To quantify…” or “To determine whether…” followed by the actual question | “To quantify the coupling between these motions, their event times are compared.” |
+| State a finding | Quantity-led statement or a selective “It is found that…” | “An increase in low-frequency intensity is observed during migration events, as shown in Fig. 2b.” |
 | Extend a result | “Furthermore”, “In addition”, or a direct new subject | “The same trend occurs across the remaining compositions.” |
-| Explain an observation | “To account for this trend…” or “This behavior suggests…” | “To account for this trend, we examine the local coordination during migration.” |
+| Explain an observation | “To account for this trend…” or “This behavior suggests…” | “To account for this trend, the local coordination during migration is examined.” |
 | Compare alternatives | “By contrast” or “However”, with the contrast named | “By contrast, the constrained framework exhibits fewer migration events.” |
-| Test scope | “To assess whether this behavior persists…” | “To assess whether this behavior persists at higher temperature, we repeat the event analysis.” |
+| Test scope | “To assess whether this behavior persists…” | “To assess whether this behavior persists at higher temperature, the event analysis is repeated.” |
 | Synthesize evidence | “Together, these results…” followed by a specific conclusion | “Together, these results indicate coupled ion and framework motion.” |
 
 Use “therefore” and “thus” for a supported inference, not merely the next calculation. Use “suggests” for an interpretation, “shows” for a directly displayed result, and “demonstrates” for a conclusion established by the stated evidence. These are contextual choices, not a rigid confidence ladder. Avoid stacked hedges such as “may potentially suggest”.
@@ -34,7 +34,7 @@ Use “therefore” and “thus” for a supported inference, not merely the nex
 
 Guide the reader through the reasoning that connects analyses. Before introducing the next panel, identify the specific question raised by the preceding result and explain what the new view will resolve. The progression can move from a macroscopic observable to individual events, from a mean response to its variation, or from a correlation to a separate energetic analysis. Preserve the actual evidential relationships; do not manufacture a causal test or a historical order of discovery.
 
-For example, an average can reveal the timing of a response, while event-resolved maps show how that response is distributed across individual events. A suitable bridge is “Beyond this average response, we examine how the local rearrangement develops across individual events.” Follow it with the observed pattern, its variability and the supported interpretation. Do not simply append “Furthermore” to a second panel description.
+For example, an average can reveal the timing of a response, while event-resolved maps show how that response is distributed across individual events. A suitable bridge is “Beyond this average response, the development of local rearrangements is examined across individual events.” Follow it with the observed pattern, its variability and the supported interpretation. Do not simply append “Furthermore” to a second panel description.
 
 Formal expressions can give this progression the author's preferred academic voice:
 
@@ -59,9 +59,15 @@ Preserve formal linking expressions and the author's step-by-step argument, but 
 
 ## Give each sentence sufficient scientific content
 
-Avoid a short, generic topic announcement followed by another sentence that finally supplies the comparison or evidence. Combine closely related ideas so that the purpose, observable and conditions form a coherent academic sentence. For example, replace “Displacement provides a direct test of the spectral indicator. The figure compares the two quantities.” with “To assess whether the spectral indicator tracks ion migration, the figure compares its intensity with the displacement of individual ions over the same trajectory window.” The revision adds a logical relationship rather than decorative wording.
+Avoid a short, generic topic announcement followed by another sentence that finally supplies the comparison or evidence. Combine closely related ideas so that the purpose, observable and conditions form a coherent academic sentence. For example, replace “Displacement provides a direct test of the spectral indicator. The figure compares the two quantities.” with “To assess whether the spectral indicator tracks ion migration, its intensity is compared with the displacement of individual ions over the same trajectory window, as shown in Fig. 2.” The revision adds a logical relationship rather than decorative wording.
 
 Review the whole passage for abrupt introductory statements, isolated definitions and loosely connected observations. Integrate them with the relevant explanation while retaining varied subjects, clear antecedents and the step-by-step scientific argument. A short sentence that conveys a complete, important finding can remain; the issue is thin or disconnected prose, not a numerical minimum length. Avoid solving the problem through padding, excessive nominalization or several independent claims joined into one long sentence.
+
+## Prefer passive descriptions of analysis and comparison
+
+Place the observable or scientific object at the center of procedural sentences. Replace “Fig. 1b compares the calculated conductivity with the AIMD results” with “The calculated conductivity is compared with the AIMD results, as shown in Fig. 1b.” A figure displays evidence; it is not the actor performing an analysis. Similarly, use “The event-to-event variation is examined using the maps in Fig. 3c” when describing the purpose of a comparison.
+
+Apply this preference across the abstract, Introduction, Results and Methods while retaining varied sentence structures and connected reasoning. Physical statements such as “Gate 1 widens before hopping onset” can remain active, and named authors can remain the subjects when their contribution is being attributed. Do not obscure who performed a previous study, strengthen a claim through “is demonstrated”, or replace every active sentence with the same impersonal opening.
 
 ## Integrate information instead of enclosing it in parentheses
 
