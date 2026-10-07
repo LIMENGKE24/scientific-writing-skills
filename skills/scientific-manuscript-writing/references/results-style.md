@@ -30,6 +30,25 @@ Choose the opening from the scientific relationship. A transition word alone can
 
 Use “therefore” and “thus” for a supported inference, not merely the next calculation. Use “suggests” for an interpretation, “shows” for a directly displayed result, and “demonstrates” for a conclusion established by the stated evidence. These are contextual choices, not a rigid confidence ladder. Avoid stacked hedges such as “may potentially suggest”.
 
+## Advance the scientific story in successive stages
+
+Guide the reader through the reasoning that connects analyses. Before introducing the next panel, identify the specific question raised by the preceding result and explain what the new view will resolve. The progression can move from a macroscopic observable to individual events, from a mean response to its variation, or from a correlation to a separate energetic analysis. Preserve the actual evidential relationships; do not manufacture a causal test or a historical order of discovery.
+
+For example, an average can reveal the timing of a response, while event-resolved maps show how that response is distributed across individual events. A suitable bridge is “Beyond this average response, we examine how the local rearrangement develops across individual events.” Follow it with the observed pattern, its variability and the supported interpretation. Do not simply append “Furthermore” to a second panel description.
+
+Formal expressions can give this progression the author's preferred academic voice:
+
+- “To examine whether ...” introduces a specific analysis question.
+- “It is found that ...” reports the observation that answers it.
+- “It is noted that ...” draws attention to a feature that matters for interpretation.
+- “It should be mentioned that ...” emphasizes a consequential condition or result; it need not introduce a defensive disclaimer.
+- “It should also be mentioned that ...” adds a distinct point whose relevance is stated.
+- “On the other hand, ...” introduces a genuine complementary or contrasting behavior.
+- “Beyond the average response, ...”, “We next examine ...” and “To explore this variation, ...” connect successive levels of analysis.
+- “Taken together, ...” integrates complementary evidence into a specific scientific conclusion.
+
+Use these expressions selectively alongside direct statements. Their role is to make the scientific reasoning visible, not to replace it or lengthen every sentence. Keep ordinary words and precise physical subjects even when using a more formal academic register.
+
 ## Make the paragraph do scientific work
 
 A figure discussion usually needs three ingredients: enough orientation to understand the observable and comparison; the principal trend with the relevant magnitude or conditions; and its physical meaning. These ingredients may span several paragraphs. Do not force every paragraph into three sentences or end each one with the same formula.
