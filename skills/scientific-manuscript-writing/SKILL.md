@@ -69,6 +69,14 @@ For figure discussions, section openings and paragraph transitions, read [Result
 - End with the physical conclusion or a concrete next question. Avoid generic endorsements such as “provides a reliable basis” and routine disclaimers about causal proof. Let the wording of the actual claim express its evidential scope.
 - Allocate length by scientific content. Definitions need enough explanation to make the findings intelligible; routine implementation belongs in Methods. Remove repeated rationale, not the quantities needed to assess the result.
 
+## Methods: concise technical definitions
+
+- Read the surrounding Methods before revising a subsection, and match their level of detail and compact academic style. Describe the scientific procedure rather than narrating the code or execution workflow.
+- Prioritize the defining mathematical quantity, constraint or estimator, the named numerical method, and the parameters needed to interpret or reproduce it. A compact equation with defined symbols can replace a lengthy procedural explanation; do not expand it into a derivation unless requested.
+- For constrained dynamics, specify how orientation or another constrained quantity is defined and enforced, which motions remain accessible, and any essential force, momentum or thermostat correction. Verify these statements against the executed implementation; do not claim numerical accuracy or an exact constraint tolerance without evidence.
+- Avoid repeating system inventories and simulation settings already stated nearby, or listing file handling, integration bookkeeping and routine initialization steps. Preserve additional reproducibility details in source notes, code or supplementary material when appropriate, without claiming an unwritten supplement exists.
+- Shorten by selecting essential technical content, not by replacing it with vague statements or very short generic sentences. Apply this preference proportionately rather than requiring every Methods subsection to contain equations or fit a fixed word count.
+
 ## Define and use abbreviations consistently
 
 - Check the current manuscript in reading order before introducing an abbreviation. Define a useful recurring term as “full term (abbreviation)” at its first occurrence, then use the same abbreviation consistently. Do not create an abbreviation for a term used only once or twice.
