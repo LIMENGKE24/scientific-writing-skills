@@ -31,7 +31,8 @@ Use these defaults to produce clear, connected academic prose. Follow explicit a
 - Frame the gap around the physical process the reader needs to understand. Introduce precise observables, such as event timing, when explaining how the study addresses that gap.
 - After introducing the approach, name the phenomenon it reveals. When two measurements support the same claim, state that claim and show how the second measurement explains or corroborates the first. If the result sentences could change places without changing the argument, make their relationship explicit.
 - Give the physical explanation its own main clause. Move procedural detail to Results when a construction such as “By measuring …, indicating …” obscures what changed and why. When a precursor matters, distinguish the small initial change from the onset of the main event in one physical explanation.
-- Close by naming the observed mechanism and what it explains under the conditions studied. Choose the comparison that best shows when or how the mechanism operates. A secondary correlation can stay in Results when it adds little to that explanation.
+- When a trend and its endpoint describe one observation, connect them in one sentence so the endpoint gives the trend a physical meaning.
+- Close with what the mechanism changes for the field. Name a property researchers could examine or a comparison they could make, and distinguish a proposed design implication from a demonstrated performance gain. Choose the comparison that best shows when or how the mechanism operates. A secondary correlation can stay in Results when it adds little to that explanation.
 
 ## Make literature reviews concrete
 
