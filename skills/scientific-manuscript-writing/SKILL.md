@@ -26,6 +26,11 @@ Use these defaults to produce clear, connected academic prose. Follow explicit a
 - When appropriate, an introduction can move from concise motivation to a fuller literature discussion and then to the present work. Use the author's preferred balance without padding a paragraph to meet an arbitrary ratio.
 - Place enabling methods where they advance the argument. Discuss a prior study's method when it explains its finding; introduce general capabilities of the present approach where the paper's contribution is developed.
 
+## Connect findings in a mechanistic abstract
+
+- After introducing the approach, name the phenomenon it reveals. When two measurements support the same claim, state that claim and show how the second measurement explains or corroborates the first. If the result sentences could change places without changing the argument, make their relationship explicit.
+- Give the physical explanation its own main clause. Move procedural detail to Results when a construction such as “By measuring …, indicating …” obscures what changed and why. Close with the implication specific to the discovery and its demonstrated conditions or population.
+
 ## Make literature reviews concrete
 
 - Give background mechanisms a brief treatment first, then develop the mechanism central to the paper. Use the transition between them to explain how the underlying scientific relationships differ.
