@@ -29,7 +29,8 @@ Use these defaults to produce clear, connected academic prose. Follow explicit a
 ## Connect findings in a mechanistic abstract
 
 - After introducing the approach, name the phenomenon it reveals. When two measurements support the same claim, state that claim and show how the second measurement explains or corroborates the first. If the result sentences could change places without changing the argument, make their relationship explicit.
-- Give the physical explanation its own main clause. Move procedural detail to Results when a construction such as “By measuring …, indicating …” obscures what changed and why. Close with the implication specific to the discovery and its demonstrated conditions or population.
+- Give the physical explanation its own main clause. Move procedural detail to Results when a construction such as “By measuring …, indicating …” obscures what changed and why. When a precursor matters, distinguish the small initial change from the onset of the main event in one physical explanation.
+- Close by naming the observed mechanism and what it explains under the conditions studied. If a comparison suggests wider relevance, report the measured trend and identify the group it applies to. Keep the direct observation and the inference distinguishable.
 
 ## Make literature reviews concrete
 
