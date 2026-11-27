@@ -33,8 +33,8 @@ Use these defaults to produce clear, connected academic prose. Follow explicit a
 - Give the physical explanation its own main clause. Move procedural detail to Results when a construction such as “By measuring …, indicating …” obscures what changed and why. When a precursor matters, distinguish the small initial change from the onset of the main event in one physical explanation.
 - Name the physical events in temporal order. When a trend and its endpoint express one finding, connect them in one sentence. Specify when a precursor is no longer detectable if the measurement cannot resolve it.
 - Express a probability comparison in parallel terms, giving the event and both conditions. “The probability of X under A is more than twice that under B” is appropriate when the comparison holds across the reported range. Omit figure-specific labels that readers cannot identify from the abstract.
-- Preserve the author’s requested transitions and sentence forms when the evidence supports them. “Additionally” introduces independent supporting evidence. “Can be attributed to” introduces a supported physical explanation. Simpler wording should preserve those relationships.
-- When the author asks for a design implication, name the property to assess, what change would be favorable, and the performance objective. Frame an untested screening strategy as a proposal.
+- Preserve the author’s requested transitions and sentence forms when the evidence supports them. Retain small author edits such as “also” when they mark a second finding. “Additionally” introduces independent supporting evidence. “Can be attributed to” introduces a supported physical explanation. Simpler wording should preserve those relationships.
+- When a mechanism suggests a design principle, name the newly relevant property and explain what it adds to the established design criterion. Retain the condition or timing that makes the property meaningful. Propose a screening procedure only when the author intends that application.
 
 ## Make literature reviews concrete
 
