@@ -19,7 +19,7 @@ Use these defaults to produce clear, connected academic prose. Follow explicit a
 ## Build the argument through the prose
 
 - Let the sequence of evidence convey the organizing idea. Do not mechanically insert planning statements such as “Our understanding has progressed from...” when the author intended that progression as an outline.
-- Use a restrained opening that introduces the paragraph's subject without listing all the examples that follow.
+- Open a literature paragraph with the question earlier work pursued. Follow with a representative study. For an unfamiliar mechanism, describe what the researchers observed in plain language before giving it a name.
 - Give each paragraph a distinct purpose. If an earlier paragraph already summarizes a class of approaches, develop the next part of the argument instead of repeating that overview.
 - Use transitions that explain the relationship between ideas. Preserve requested turning points such as “However” when warranted. For a substantive shift, a full connecting sentence can be clearer than a topic label such as “Regarding...”.
 - Distinguish conceptual axes accurately. For example, static and dynamic descriptions may both concern atomic-scale behavior; they are not necessarily different length scales or competing research directions.
@@ -46,7 +46,7 @@ Use these defaults to produce clear, connected academic prose. Follow explicit a
 - Read the relevant primary-source passages before adding or changing literature claims. If a source is unavailable, identify the unresolved claim rather than inventing a result, attribution, or reference.
 - Keep material scope, conditions, temperature ranges, and uncertainty attached to the findings they qualify. A mechanism demonstrated under one set of conditions is not automatically universal.
 - Distinguish prior work from the present contribution through accurate scope. Do not recast a broad earlier result as the exact new finding, or conceal genuine overlap to manufacture novelty.
-- End with a specific scientific question that follows from the review. Identify the unresolved relationship, mechanism, or observable rather than saying only that “challenges remain”. Do not reduce the paper's motivation to one measurement or a procedural description.
+- Frame the gap at the level the evidence leaves open. Earlier work may identify the participating motions while their sequence and physical origin remain unresolved for a particular material or condition. State that question in terms that allow more than one outcome.
 - Close the literature review with a declarative statement of the unresolved problem. Open the final Introduction paragraph with “In this work,” and state the approach and scientific objective directly. Preserve this opening in revisions unless the author specifies another.
 - Avoid “first-ever”, “unprecedented”, and blanket claims that previous work lacked a capability unless the literature supports them.
 - If formal references are deferred, still verify claims while drafting. Keep verification notes outside the manuscript, retain requested narrative attribution, and add citation commands or bibliography entries when requested. Do not paste tool-specific citation markers into LaTeX.
